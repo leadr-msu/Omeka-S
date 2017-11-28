@@ -1,29 +1,33 @@
-# Omeka-S
-Omeka S Tutorial
+# Omeka-S Tutorial
+Created by Jen Andrella 
 
-===Dashboard Navigation===
+## Omeka S Overview
+
 On the dashboard, there is a navigation bar on the left and the main work area on the right.  "Manage Resources" provides links and summary accounts for Items, Item Sets, Vocabularies, and Resource Templates. "Manage Sites" lists all sites within the Omeka S installation.  Clicking on the name of a site will direct users to the public view, while clicking on the edit button (pencil icon) will direct users to the editing base.  
 
+## Navigation 
+
 On the left-side navigation column, users will see a section heading for "Resources."  This contains all of the tools to build content in Omeka S: 
-*Items 
-*Item Sets
-*Vocabularies
-*Resource Templates
+* Items 
+* Item Sets
+* Vocabularies
+* Resource Templates
 
 Below these options the user will see the the Administrator system settings to manage all websites on the Omeka S installation, including: 
-*Users (single or batch-add)
-*Modules (plug-ins to extend functionality)
-*Jobs
-*Settings
+* Users (single or batch-add)
+* Modules (plug-ins to extend functionality)
+* Jobs
+* Settings
 
-===Key Terminology and Concepts===
-*'''Item''' - A digital representation of a piece of content in which you can attach metadata and upload multiple forms of media.  Items are the building blocks of every Omeka platform, but function a little differently in Omeka S. When users click on the pencil "edit" icon, it will take them to an interface where they will enter metadata information. A new feature is that users will choose which metadata fields they would like to complete based on a list of four different "Properties" that will appear in a side bar on the right side of the screen. Here, users can choose fields from the property lists: 
-**Dublin Core (Omeka's standard metadata fields)
-**Bibliographic Ontology
-**Friend of a Friend (Ideal for genealogical projects)
-   Example: Usually a primary or secondary source such as a painting, document, legislation, interview clip, book, newspaper, etc.
-*'''Item Set''' - A group of "Items"  organized around a similar inherent features, like an idea, person, or place.  If multiple Items have the same owner/contributor or archival/museum collection, then creating an Item Set for these objects is an appropriate form of organization. Every Item Set will have its own metadata, and is structured very similarly to "Collections" in Omeka Classic.  The difference is that any Item can appear in one or more Item Sets as users deem necessary.
-   Example: The Item Set titled: "William Shakespeare" would include include the Items: ''Romeo and Juliet'', ''Othello'', and ''Macbeth''.
+## Key Terminology and Concepts
+* Item:  A digital representation of a piece of content in which you can attach metadata and upload multiple forms of media.  Items are the building blocks of every Omeka platform, but function a little differently in Omeka S. When users click on the pencil "edit" icon, it will take them to an interface where they will enter metadata information. A new feature is that users will choose which metadata fields they would like to complete based on a list of four different "Properties" that will appear in a side bar on the right side of the screen. Here, users can choose fields from the property lists: 
+** Dublin Core (Omeka's standard metadata fields)
+** Bibliographic Ontology
+** Friend of a Friend (Ideal for genealogical projects)
+   *Example: Usually a primary or secondary source such as a painting, document, legislation, interview clip, book, newspaper, etc
+   
+   * Item Set: A group of "Items"  organized around a similar inherent features, like an idea, person, or place.  If multiple Items have the same owner/contributor or archival/museum collection, then creating an Item Set for these objects is an appropriate form of organization. Every Item Set will have its own metadata, and is structured very similarly to "Collections" in Omeka Classic.  The difference is that any Item can appear in one or more Item Sets as users deem necessary.
+   *Example: The Item Set titled: "William Shakespeare" would include include the Items: ''Romeo and Juliet'', ''Othello'', and "Macbeth."
 
 A new feature of Omeka S is the ability to enter an existing Item or Item Set as the value for a property field.  For example, the Item Set based on "William Shakespeare" can be entered into the "Author" field of an Item. This way, any work with the same author will be connected together.
 
