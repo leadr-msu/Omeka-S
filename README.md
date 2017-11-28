@@ -49,7 +49,7 @@ To add an item, follow these steps:
 
 ## Item Sets
 
-===Pages to a Website===
+## Pages to a Website
 
 ## Practice More with the Sandbox
 * Learn how to use Omeka S by experimenting with their [http://dev.omeka.org/omeka-s-sandbox/login Sandbox]. It comes pre-populated with items, item sets, resource templates and websites. Users can practice uploading their own content as well.
@@ -59,4 +59,4 @@ To add an item, follow these steps:
            omekasdemo3@example.com
     Passwords for each account are the username in the email address (omekasdemo1, etc).
 
-== Modules ==
+## Modules
