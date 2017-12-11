@@ -36,21 +36,35 @@ A new feature of Omeka S is the ability to enter an existing Item or Item Set as
 
 ## Adding and Managing Content
 
-## Create a Website
+* Create a Website:  On the Admin dashboard, select the "Add Site" button which will open a New Site start-up page with fields to enter the website title and URL slug (or Omeka will generate one automatically). The next tab shows the choices for different themes of appearance. Lastly, the "Item pool" tab is where you can create pools of items between Omeka sites and set specific search settings.
 
-## Items
+When you are done, click "Add" and your new site will appear on the dashboard ready to upload and manage content. 
+
+* Items
 To add an item, follow these steps: 
 1. Go to "Items" under resources and then click the gray button "Add new item." 
 2. Select a resource template that best applies to the item's type (film, artwork, textual work, a custom template, etc.).  Also select a "class" to claim a metadata type.  
-3. Adding a resource template and class will change the kinds of metadata fields available to enter information. To add more fields, skim through the "properties" column on the right side of the page and choose which fields you would like to add to your item's metadata information.  Choose properties from "Dublin Core," "Bibliographic Ontology," and "Friend of a Friend" as the user sees appropriate for their item. 
+3. Adding a resource template and class will change the kinds of metadata fields available to enter information. To add more fields,     
+   skim through the "properties" column on the right side of the page and choose which fields you would like to add to your item's 
+   metadata information.  Choose properties from "Dublin Core," "Bibliographic Ontology," and "Friend of a Friend" as the user sees
+   appropriate for their item. 
 4. Click the media tab to upload media from your computer, through a URL, HTML, IIIF image, oEmbed, or Youtube.  
-5. Select the "Item set" tab to add the item to a pre-created Item set. (i.e.  This is where authors might connect their works to a specific donor, artist, creator, etc.).
+5. Select the "Item set" tab to add the item to a pre-created Item set. (i.e.  This is where authors might connect their works to a
+   specific donor, artist, creator, etc.).
 6. Lastly, click "Add" and the item will appear in the list with the others.  Edit the item at anytime by selecting the pencil icon.
 
-## Item Sets
+* Item Sets: 
+To create an item set, follow these steps:
+1. Click the "Item Sets" tab from the left navigation column on the dashboard, then click "add new item set."
+2. If you have a resource template preference, you may select a specific resource template. Otherwise, select Dublin Core, Bibliographic Ontology, or Friend of a Friend from the right column and enter the metadata information available for the item set.  
 
-## Pages to a Website
-
+* Pages to a Website:
+To edit and add new pages to a website, follow these steps:
+1. Using the left navigation column on the admin dashboard, you can edit existing pages or "Add new page." 
+2. Once you add a new page, enter a title and click "add." You will then be directed back to the interface for all pages.  Click the pencil "edit" icon to edit and add content to your page.
+3. In the edit interface, notice the selection of content blocks that you can add to the page.  Once you add your content blocks of choice, you can drag them to reposition their order on the page.  
+4. Various content blocks allow text, media (items), and mapping features.  
+5. Once your a finished with the content, layout and design of your page, click "save." 
 ## Practice More with the Sandbox
 * Learn how to use Omeka S by experimenting with their [http://dev.omeka.org/omeka-s-sandbox/login Sandbox]. It comes pre-populated with items, item sets, resource templates and websites. Users can practice uploading their own content as well.
     *Log in with one of the following accounts
@@ -60,3 +74,32 @@ To add an item, follow these steps:
     Passwords for each account are the username in the email address (omekasdemo1, etc).
 
 ## Modules
+
+For advanced options, modules (i.e. plug-ins) extend the functionality of Omeka S.These must be downloaded separately to your Omeka S installation.
+  * Collecting- Add collecting forms to your sites
+  * CSV Import- Import content from a CSV file
+  * Custom Vocab- Describe your resources using vocabularies you create
+  * Dspace Connector- Connect Omeka S to DSpace repositories
+  * Fedora Connector- Connect Omeka S to Fedora 4 repositories
+  * File Sideload- Add files that are already on your server to items
+  * Folksonomy- Add tages and tagging form to any resource to create uncontrolled vocabularies and tag clouds
+  * IIIF Server- Integrates the IIIF specifications and a simple IIp Image Server to allow processing and instant sharing of any sized
+    images and media (PDF, audio, 3D, etc.)
+  * Mapping- Add location information to your items and sites
+  * Metadata Browse- Adds a link to sane results for metadata values
+  * Omeka 2 Importer- Import content from an omeka 2 site via its API
+  * PDF Embed- Embed PDF files within Omeka S pages
+  * Rights Statements- Add a "rights" data type to a property
+  * Search- Add search capabilities to Omeka S
+  * Sharing- Share and embed content on the web
+  * Solr- Add Solr search adapter
+  * unAPI- Make your item metadata discoverable using unAPI
+  * Universal Viewer- Integrates the Universal Viewer in order to create carousels of virtual books from image files and to display any
+    media file (PD, audio, video, 3D, etc.) in a unified player
+  * Value Suggest- Describe your resources using auto-suggested values from controlled vocabulary services
+  * Zotero Import- Import items and files from Zotero user and group libraries
+Please visit the [modules registry and download site](https://omeka.org/s/modules/) to download the module(s) to your Omeka S installation.
+  
+  
+  
+  
