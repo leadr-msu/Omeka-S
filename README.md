@@ -101,6 +101,6 @@ For advanced options, modules (i.e. plug-ins) extend the functionality of Omeka 
 Please visit the [modules registry and download site](https://omeka.org/s/modules/) to download the module(s) to your Omeka S installation.
   
 -----
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/resources)
 
   
