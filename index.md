@@ -66,7 +66,7 @@ To edit and add new pages to a website, follow these steps:
 4. Various content blocks allow text, media (items), and mapping features.  
 5. Once your a finished with the content, layout and design of your page, click "save." 
 ## Practice More with the Sandbox
-* Learn how to use Omeka S by experimenting with their [http://dev.omeka.org/omeka-s-sandbox/login Sandbox]. It comes pre-populated with items, item sets, resource templates and websites. Users can practice uploading their own content as well.
+* Learn how to use Omeka S by experimenting with their [http://dev.omeka.org/omeka-s-sandbox/login Sandbox](http://dev.omeka.org/omeka-s-sandbox/login Sandbox). It comes pre-populated with items, item sets, resource templates and websites. Users can practice uploading their own content as well.
     *Log in with one of the following accounts
            omekasdemo1@example.com
            omekasdemo2@example.com
